@@ -1,0 +1,33 @@
+{
+	"name": "supports-preserve-symlinks-flag",
+	"version": "0.0.0",
+	"description": "Determine if the current node version supports the `--preserve-symlinks` flag.",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/inspect-js/node-supports-preserve-symlinks-flag.git"
+	},
+	"keywords": [
+		"node",
+		"flag",
+		"symlink",
+		"symlinks",
+		"preserve-symlinks"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"funding": {
+		"url": "https://github.com/sponsors/ljharb"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag/issues"
+	},
+	"homepage": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme"
+}
