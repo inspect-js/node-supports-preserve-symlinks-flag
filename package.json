@@ -1,6 +1,6 @@
 {
 	"name": "supports-preserve-symlinks-flag",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Determine if the current node version supports the `--preserve-symlinks` flag.",
 	"main": "./index.js",
 	"browser": "./browser.js",
